@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">View Pager</string>
+    <string name="title_section1">APPLE</string>
+    <string name="title_section2">ORANGE</string>
+    <string name="title_section3">GRAPES</string>
+</resources>
